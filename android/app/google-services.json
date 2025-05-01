@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "613243612992",
+    "project_id": "raou-4591d",
+    "storage_bucket": "raou-4591d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613243612992:android:07ce0021a2e7558c3d54a5",
+        "android_client_info": {
+          "package_name": "com.innoview.raou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613243612992-oup5vm3d6uq7d65161gng3ssm0eh3v25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innoview.raou",
+            "certificate_hash": "ab14072fc117c28831fdd489057c91b1d930bce9"
+          }
+        },
+        {
+          "client_id": "613243612992-40ni0klcut003gn2cbdkfvl884t532n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoXHli06BHXI9QF2ldAd5krxlnVMI-YkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613243612992-40ni0klcut003gn2cbdkfvl884t532n3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
